@@ -101,6 +101,7 @@ DATABASES = {
         'PASSWORD': 'nsfKTpUVrRfDRcRaGTzVRFD7wx30hMRk',
         'HOST': 'dpg-d0i8bpidbo4c73dkf8b0-a.oregon-postgres.render.com',
         'PORT': '5432',  # Cổng mặc định của PostgreSQL
+        },
     }
 }
 
